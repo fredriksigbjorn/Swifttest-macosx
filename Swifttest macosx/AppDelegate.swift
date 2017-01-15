@@ -16,6 +16,7 @@ class AppDelegate: NSObject, NSApplicationDelegate {
 
     func applicationDidFinishLaunching(_ aNotification: Notification) {
         // Insert code here to initialize your application
+        debug("just testing")
     }
 
     func applicationWillTerminate(_ aNotification: Notification) {
